@@ -1,0 +1,19 @@
+:root{
+    --fondo: #d9d1d1;
+    --textos: #f40808;
+}
+body{
+    background-color: var(--fondo);
+}
+h1{
+    color: var(--textos);
+}
+h2{
+    color: var(--textos);
+}
+p{
+    color: var(--textos);
+}
+footer{
+    color: var(--textos);
+}
