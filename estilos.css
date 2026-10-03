@@ -1,6 +1,6 @@
 :root{
     --fondo: #d9d1d1;
-    --textos: #f40808;
+    --textos: #2f01fa;
 }
 body{
     background-color: var(--fondo);
@@ -12,6 +12,9 @@ h2{
     color: var(--textos);
 }
 p{
+    color: var(--textos);
+}
+nav{
     color: var(--textos);
 }
 footer{
